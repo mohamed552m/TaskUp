@@ -34,6 +34,17 @@ app/
 │ └── menu/
 └── build.gradle.kts
 
+
+## 📸 Screenshots
+
+| Splash Screen | Home Screen |
+|:-------------:|:-----------:|
+| ![Splash](slash.png) | ![Home](home.png) |
+
+| Calendar View | Add Task |
+|:-------------:|:--------:|
+| ![Calendar](calender.png) | ![Add Task](add.png) |
+
 ## 🚀 Getting Started
 
 ### Prerequisites

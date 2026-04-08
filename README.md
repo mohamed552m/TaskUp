@@ -34,7 +34,6 @@ app/
 │ └── menu/
 └── build.gradle.kts
 
-
 ## 📸 Screenshots
 
 | Splash Screen | Home Screen |
@@ -44,6 +43,7 @@ app/
 | Calendar View | Add Task |
 |:-------------:|:--------:|
 | ![Calendar](calender.png) | ![Add Task](add.png) |
+
 
 ## 🚀 Getting Started
 

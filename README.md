@@ -19,20 +19,12 @@ The app helps users organize daily tasks, mark them as completed, delete them, a
 
 ## 📂 Project Structure
 app/
-├── src/main/
-│ ├── java/com/example/taskup/
-│ │ ├── MainActivity.kt
-│ │ ├── CalendarActivity.kt
-│ │ ├── AddTaskActivity.kt
-│ │ ├── Task.kt
-│ │ ├── TaskAdapter.kt
-│ │ └── TaskRepository.kt
-│ └── res/
-│ ├── layout/
-│ ├── drawable/
-│ ├── values/
-│ └── menu/
-└── build.gradle.kts
+├── MainActivity.kt # Home screen
+├── CalendarActivity.kt # Calendar view
+├── AddTaskActivity.kt # Add new task
+├── Task.kt # Data model
+├── TaskAdapter.kt # RecyclerView adapter
+└── TaskRepository.kt # Data management
 
 ## 📸 Screenshots
 

@@ -30,11 +30,11 @@ app/
 
 | Splash Screen | Home Screen |
 |:-------------:|:-----------:|
-| ![Splash](slash.png) | ![Home](Home.png) |
+| ![Splash](splash.png) | ![Home](Home.png) |
 
 | Calendar View | Add Task |
 |:-------------:|:--------:|
-| ![Calendar](calender.png) | ![Add Task](add.png) |
+| ![Calendar](calendar.png) | ![Add Task](add_task.png) |
 
 
 ## 🚀 Getting Started
